@@ -1,0 +1,130 @@
+/*Bootstrap*/
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-link {
+    background-color: green;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: white;
+}
+
+.navbar-toggler-icon {
+    background-color: green;
+    border-radius: 4px;
+}
+
+.card {
+    margin-top: 20px;
+    max-width: 450px;
+}
+
+
+/*Font*/
+h1 {
+    font-family: 'Rubik', sans-serif;
+    color: green;
+}
+
+h2 {
+    font-family: 'Rubik', sans-serif;
+    color: green;
+}
+
+p {
+    font-family: 'Rubik', sans-serif;
+    color: white;
+}
+
+
+/*Layout*/
+
+body {
+    background-image: url('img/grafik.png');
+    background-attachment: fixed;
+}
+
+.intro {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.start {
+    width: 300px;
+}
+
+.opdeler {
+    background-color: green;
+    padding: 10px;
+}
+
+.omkring {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+/*Farve*/
+.white {
+    color: white;
+}
+
+.black {
+    color: black;
+}
+
+.green {
+    color: green;
+    font-family: 'Rubik', sans-serif;
+}
+
+#error {
+    color: green;
+}
+
+/*Design*/
+a:link {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+table {
+    background-color: white;
+}
+
+
+
+/*Footer*/
+.footer-basic {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    background-color: white;
+
+}
+
+.footer-basic ul {
+    list-style: none;
+    text-align: center;
+}
+
+.footer-basic li {
+    padding: 5px;
+}
+
+.footer-basic ul a {
+    color: green;
+    text-decoration: none;
+}
+
+.footer-basic .copyright {
+    margin-top: 10px;
+    text-align: center;
+    color: #aaa;
+}
